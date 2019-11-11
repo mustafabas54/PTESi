@@ -1,0 +1,53 @@
+.container {
+  margin-top: 30px;
+}
+.resmim{
+  width: 100%; 
+}
+#ben {
+  
+  border: 2px solid black;
+  border-radius: 30px;
+}
+.jumbotron {
+  background: rgb(66,75,75);
+  background: radial-gradient(circle, rgba(66,75,75,1) 2%, rgba(134,130,127,1) 82%);
+  color: rgb(0, 0, 0);
+}
+
+.collapse {
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 8px;
+  background: rgb(66,75,75);
+  background: radial-gradient(circle, rgba(66,75,75,1) 14%, rgba(205,179,158,1) 16%, rgba(66,75,75,1) 22%);
+}
+.nav-link:hover {
+  background: rgb(122, 122, 61);
+  border: 1px solid black;
+  border-radius: 8px; 
+}
+
+body  {
+
+  background: rgb(177, 177, 177);
+}
+#arkaplan {
+  position: absolute;
+  opacity: 0.2;
+  border: 2px solid rgb(66, 65, 65);
+  border-radius: 30px ;
+  top: 0;
+  left: 0;
+}
+.container {
+  display: block;
+}
+#mb {
+  width: 80%;
+  height: 80%;
+}
+#baslik {
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
